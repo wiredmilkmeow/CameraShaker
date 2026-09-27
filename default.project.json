@@ -1,0 +1,12 @@
+{
+	"name": "CameraShaker",
+	"tree": {
+		"$className": "DataModel",
+		"ReplicatedStorage": {
+			"$className": "ReplicatedStorage",
+			"CameraShaker": {
+				"$path": "src/CameraShaker"
+			}
+		}
+	}
+}
